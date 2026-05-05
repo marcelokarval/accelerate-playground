@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "adapter": "github-pr",
+  "repo": "marcelokarval/accelerate-playground",
+  "branch": "accelerate/live-proof-2026-05-05",
+  "head_ref_oid": "75be7c086bceda9746aa1478d005db7b699d6912",
+  "pr_number": 1,
+  "ready": false,
+  "pr": {
+    "baseRefName": "main",
+    "headRefName": "accelerate/live-proof-2026-05-05",
+    "headRefOid": "75be7c086bceda9746aa1478d005db7b699d6912",
+    "mergeable": "MERGEABLE",
+    "number": 1,
+    "reviewDecision": "",
+    "state": "OPEN",
+    "statusCheckRollup": [
+      {
+        "__typename": "CheckRun",
+        "completedAt": "2026-05-05T23:00:12Z",
+        "conclusion": "SUCCESS",
+        "detailsUrl": "https://sourcery.ai",
+        "name": "Sourcery review",
+        "startedAt": "2026-05-05T22:59:59Z",
+        "status": "COMPLETED",
+        "workflowName": ""
+      }
+    ],
+    "url": "https://github.com/marcelokarval/accelerate-playground/pull/1"
+  },
+  "blocking_checks": [],
+  "pending_checks": [],
+  "missing_requirements": [
+    "approved_review"
+  ]
+}
