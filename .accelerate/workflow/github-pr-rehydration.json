@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "adapter": "github-pr",
+  "repo": "marcelokarval/accelerate-playground",
+  "branch": "accelerate/live-proof-2026-05-05",
+  "identity": {
+    "pr_number": 1,
+    "url": "https://github.com/marcelokarval/accelerate-playground/pull/1",
+    "title": "Accelerate live proof fixture",
+    "author": {
+      "id": "MDQ6VXNlcjQ2Mzk5Mzgy",
+      "is_bot": false,
+      "login": "marcelokarval",
+      "name": "Marcelo Karval"
+    },
+    "head_ref": "accelerate/live-proof-2026-05-05",
+    "head_ref_oid": "ea03affde91257154f03aaa9f623d958e7b21042",
+    "base_ref": "main"
+  },
+  "lifecycle": {
+    "state": "OPEN",
+    "mergeable": "MERGEABLE",
+    "review_decision": ""
+  },
+  "artifacts": {
+    "comment_count": 2,
+    "status_check_count": 1,
+    "raw_provider_path": ".accelerate/workflow/github-pr-rehydration.raw.json"
+  },
+  "gaps": [
+    "approved_review"
+  ],
+  "raw_path": ".accelerate/workflow/github-pr-rehydration.raw.json"
+}

@@ -5,3 +5,6 @@ artifacts:
   - path: .accelerate/review/live-proof-artifact.md
     class: generated-export
     export: approved
+  - path: .accelerate/review/live-proof-closure.md
+    class: generated-export
+    export: approved
